@@ -1,2 +1,7 @@
-# para
-say hi
+# https://tea.xyz/what-is-this-file
+---
+version: 1.0.0
+codeOwners:
+  - '0x59bda62aBBDC1b2aab90F5b1BC2C5e66D7d47702'
+quorum: 1
+
